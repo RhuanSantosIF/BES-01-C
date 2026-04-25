@@ -2,7 +2,7 @@
 
 int main() {
 
-    float vi, v2, media;
+    float v1, v2, media;
     printf("Insira dois numeros: ");
     scanf("%f %f",&v1,&v2);
     media = (v1 + v2) / 2;
